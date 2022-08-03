@@ -1,1 +1,2 @@
 just trying this file and see if it will push
+i just created this file and going to do git pull to get it on terminal
